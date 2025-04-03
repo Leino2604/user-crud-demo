@@ -5,10 +5,10 @@
 
 ## Steps to Set Up
 1. Download the In-Memory database package by running the following command:
-   [dotnet add package Microsoft.EntityFrameworkCore.InMemory]
+   `dotnet add package Microsoft.EntityFrameworkCore.InMemory`
 2. Open the folder containing your project.
 3. Run the project using the command:
-    [dotnet run]
+   `dotnet run`
 
 
 ## Default Credentials
