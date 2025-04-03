@@ -7,7 +7,7 @@
 1. Download the In-Memory database package by running the following command:
    
    `dotnet add package Microsoft.EntityFrameworkCore.InMemory`
-3. Open the folder containing your project.
+3. Open the folder containing project.
 4. Run the project using the command:
    `dotnet run`
 
